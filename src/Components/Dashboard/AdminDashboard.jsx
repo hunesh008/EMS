@@ -12,7 +12,7 @@ const AdminDashboard = () => {
             <label className="block text-gray-700 font-semibold mb-1">Title Task</label>
             <input
               className="w-full border border-gray-300 h-10 rounded-lg px-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
-              type="text"
+              type=""
               placeholder="Make a YouTube Video"
             />
           </div>
